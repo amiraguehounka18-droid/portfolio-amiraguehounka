@@ -1,6 +1,6 @@
-# Portfolio — Amirague Hounka
+# Portfolio — Amiraguehounka
 
-Portfolio personnel bilingue d’**Amirague Hounka**, étudiant en informatique et créateur web en apprentissage.
+Portfolio personnel bilingue d’**Amiraguehounka**, étudiant en informatique et créateur web en apprentissage.
 
 Le site présente mon profil, mes compétences, mon parcours, mes objectifs et les projets que je construis pour progresser vers le développement web junior et le freelance.
 
