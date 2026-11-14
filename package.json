@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-amiraguehounka",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio personnel bilingue d'Amirague Hounka",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
