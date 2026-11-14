@@ -63,5 +63,6 @@ contactForm.addEventListener('submit', (event) => {
   const formData = new FormData(contactForm);
   const subject = encodeURIComponent(`Message portfolio — ${formData.get('name')}`);
   const body = encodeURIComponent(`${formData.get('message')}\n\nRépondre à : ${formData.get('email')}`);
+  window.location.href = `mailto:amiraguehounka18@gmail.com?subject=${subject}&body=${body}`;
   formStatus.textContent = currentLanguage === 'fr' ? 'Votre application email va s’ouvrir pour finaliser l’envoi.' : 'Your email app will open to finish sending.';
 });
