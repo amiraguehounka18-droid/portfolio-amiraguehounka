@@ -1,4 +1,4 @@
-# Amirague Hounka
+# Amir AGUEHOUNKA
 
 ## Étudiant en informatique · Création web
 
@@ -7,7 +7,7 @@
 
 ## Profil
 
-Étudiant en informatique, intéressé par la création de sites web, les interfaces utiles et l’apprentissage continu. Je construis des projets personnels pour développer mes compétences en front-end, en expérience utilisateur et progressivement en full-stack.
+Étudiant en informatique, intéressé par la création de sites web, les interfaces utiles et l’apprentissage continu. Je construis des projets personnels pour développer mes compétences en front-end, en design et en productivité numérique.
 
 ## Compétences en développement
 
